@@ -1,12 +1,12 @@
 {
   "clientes": [
     {
-      "name": "Juan",
-      "company": "Coca cola",
-      "email": "juan@cocacola.com",
-      "phone": "912839204",
-      "observation": "prueba ",
-      "id": 1
+      "name": "John Alday",
+      "company": "dsgs",
+      "email": "ald.jo.a@gmail.com",
+      "phone": "973300307",
+      "observation": "",
+      "id": 2
     }
   ]
 }
