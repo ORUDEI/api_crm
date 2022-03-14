@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "name": "estepio  sa",
+      "company": "wewewey",
+      "email": "ald.jo.a@gmail.com",
+      "phone": "973300307",
+      "observation": "holaz we",
+      "id": 2
+    },
+    {
+      "name": "John Alday",
+      "company": "sdaf",
+      "email": "ald.jo.a@gmail.com",
+      "phone": "973300307",
+      "id": 3
+    },
+    {
+      "name": "John Alday",
+      "company": "vc",
+      "email": "ald.jo.a@gmail.com",
+      "phone": "973300307",
+      "id": 4
+    },
+    {
+      "name": "John Alday",
+      "company": "sdf",
+      "email": "ald.jo.a@gmail.com",
+      "phone": "973300307",
+      "id": 5
+    },
+    {
+      "name": "John Alday",
+      "company": "fhd",
+      "email": "ald.jo.a@gmail.com",
+      "phone": "973300307",
+      "observation": "sdsd",
+      "id": 6
+    },
+    {
+      "name": "John Alday",
+      "company": "re",
+      "email": "ald.jo.a@gmail.com",
+      "phone": "973300307",
+      "observation": "sg",
+      "id": 7
+    }
+  ]
+}
